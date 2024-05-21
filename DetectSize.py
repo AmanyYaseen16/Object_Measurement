@@ -6,8 +6,8 @@ webcam = False
 path = 'CardT.jpg'
 cap = cv2.VideoCapture(0)
 scale = 3
-wP = 210 * scale
-hP = 297 * scale
+wP = 212 * scale
+hP = 300 * scale
 
 while True:
     if webcam:
